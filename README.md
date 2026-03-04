@@ -1,3 +1,5 @@
+[![SamePage CI/CD](https://github.com/tejasdev23/samepage/actions/workflows/main.yml/badge.svg)](https://github.com/tejasdev23/samepage/actions/workflows/main.yml)
+
 # Samepage
 Real-time Synchronized Media Player  
 
